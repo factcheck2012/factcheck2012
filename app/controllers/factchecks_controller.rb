@@ -1,0 +1,2 @@
+class FactchecksController < ApplicationController
+end

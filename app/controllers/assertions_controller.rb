@@ -1,0 +1,2 @@
+class AssertionsController < ApplicationController
+end
